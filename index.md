@@ -41,7 +41,4 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 #### Profiles
  https://www.linkedin.com/in/harshita-sharma1729/
 
-<img src="https://github.com/harshita-sharma012/harshita-sharma012.github.io/blob/main/profile/images/har.jpeg" width="250" title="FOSDEM 2020">
-<img src="https://github.com/harshita-sharma012/harshita-sharma012.github.io/blob/main/profile/images/ha.jpeg" width="250" title="FOSDEM 2020">
-
  
