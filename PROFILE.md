@@ -1,6 +1,6 @@
 layout: page
 title: "Harshita"
-permalink: /
+permalink: /about
 
 # Harshita 
 
