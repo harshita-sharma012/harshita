@@ -4,3 +4,9 @@
 
 layout: home
 ---
+# Harshita 
+
+## SUMMARY
+
+Software Engineer with experience in Cloud Native mainly Orchestration - Kubernetes, Containerization -
+Docker and Cloud-native Storage Solution - OpenEBS.
