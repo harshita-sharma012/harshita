@@ -41,6 +41,4 @@ Skilled in Python, Kubernetes, Golang, Ansible, GitHub, Linux.
 #### Profiles
  https://www.linkedin.com/in/harshita-sharma1729/
 
-
-
  
